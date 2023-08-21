@@ -43,3 +43,10 @@ www.mrreiaz.com
         Fig.1 - android App.
     </p>
 </figure>
+<figure>
+    <h1 align="center">
+        <a href="https://github.com/mrreiaz/id-card/blob/main/app-release.apk">Download Android APK</a>
+    </h1>
+</figure>
+
+
