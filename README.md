@@ -37,7 +37,7 @@ www.mrreiaz.com
 
 <figure>
     <p align="center">
-        <img src="images/i-phone.png" width="50%" alt="mrreiaz">
+        <img src="/readme-asset/androied.png" width="50%" alt="mrreiaz">
     </p>
     <p align="center">
         Fig.1 - Iphone App.
